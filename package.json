@@ -1,0 +1,24 @@
+{
+  "name": "@jdthornton/usefullscreen",
+  "version": "1.0.1",
+  "description": "React fullscreen hook",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Jake Thornton",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "typescript": "^4.4.3"
+  },
+  "files": [
+    "/dist",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdthornton/usefullscreen.git"
+  }
+}
